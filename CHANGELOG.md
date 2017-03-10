@@ -15,3 +15,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.5]
 - Added cy-utilities and html5 boilerplate
+
+## [0.0.6]
+- Added editor config, sort lines and beautifier
