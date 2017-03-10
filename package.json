@@ -2,7 +2,7 @@
     "name": "cy-extension-collection",
     "displayName": "cy-extension-collection",
     "description": "Cy's extensions",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "cybwn",
     "engines": {
         "vscode": "^1.10.0"
@@ -13,6 +13,7 @@
     "extensionDependencies": [
         "abierbaum.vscode-file-peek",
         "akamud.vscode-caniuse",
+        "AlanWalk.quick-open-file",
         "christian-kohler.npm-intellisense",
         "CoenraadS.bracket-pair-colorizer",
         "dbaeumer.vscode-eslint",

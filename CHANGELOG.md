@@ -6,3 +6,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.2]
 - Added bootstrap 3
+
+## [0.0.3]
+- Added Quick open file
