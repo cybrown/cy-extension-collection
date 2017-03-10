@@ -9,3 +9,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.3]
 - Added Quick open file
+
+## [0.0.4]
+- Added Icons

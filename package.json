@@ -2,7 +2,7 @@
     "name": "cy-extension-collection",
     "displayName": "cy-extension-collection",
     "description": "Cy's extensions",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "cybwn",
     "engines": {
         "vscode": "^1.10.0"
@@ -28,6 +28,7 @@
         "jakob101.RelativePath",
         "MattiasPernhult.vscode-todo",
         "msjsdiag.debugger-for-chrome",
+        "qinjia.seti-icons",
         "samverschueren.final-newline",
         "vilicvane.es-quotes",
         "waderyan.gitblame",
