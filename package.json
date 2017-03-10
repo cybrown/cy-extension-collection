@@ -2,7 +2,7 @@
     "name": "cy-extension-collection",
     "displayName": "cy-extension-collection",
     "description": "Cy's extensions",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cybwn",
     "engines": {
         "vscode": "^1.10.0"

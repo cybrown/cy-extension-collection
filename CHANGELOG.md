@@ -3,3 +3,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.1]
 - Initial release
+
+## [0.0.2]
+- Added bootstrap 3
