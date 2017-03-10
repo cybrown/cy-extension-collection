@@ -1,0 +1,35 @@
+{
+    "name": "cy-extension-collection",
+    "displayName": "cy-extension-collection",
+    "description": "Cy's extensions",
+    "version": "0.0.1",
+    "publisher": "cybwn",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "gabrielgrinberg.auto-run-command",
+        "ionutvmi.path-autocomplete",
+        "msjsdiag.debugger-for-chrome",
+        "CoenraadS.bracket-pair-colorizer",
+        "wmaurer.change-case",
+        "akamud.vscode-caniuse",
+        "dbaeumer.vscode-eslint",
+        "waderyan.gitblame",
+        "donjayamanne.githistory",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "abierbaum.vscode-file-peek",
+        "dbankier.vscode-quick-select",
+        "vilicvane.es-quotes",
+        "samverschueren.final-newline",
+        "GregorBiswanger.json2ts",
+        "jakob101.RelativePath",
+        "eg2.tslint",
+        "MattiasPernhult.vscode-todo",
+        "flesler.url-encode"
+    ]
+}
