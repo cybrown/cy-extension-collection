@@ -2,7 +2,7 @@
     "name": "cy-extension-collection",
     "displayName": "cy-extension-collection",
     "description": "Cy's extensions",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "cybwn",
     "engines": {
         "vscode": "^1.10.0"
@@ -16,6 +16,7 @@
         "AlanWalk.quick-open-file",
         "christian-kohler.npm-intellisense",
         "CoenraadS.bracket-pair-colorizer",
+        "cybwn.cy-utilities",
         "dbaeumer.vscode-eslint",
         "dbankier.vscode-quick-select",
         "donjayamanne.githistory",
@@ -30,6 +31,7 @@
         "msjsdiag.debugger-for-chrome",
         "qinjia.seti-icons",
         "samverschueren.final-newline",
+        "sidthesloth.html5-boilerplate",
         "vilicvane.es-quotes",
         "waderyan.gitblame",
         "wcwhitehead.bootstrap-3-snippets",

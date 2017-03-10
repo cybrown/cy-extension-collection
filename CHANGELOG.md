@@ -12,3 +12,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.4]
 - Added Icons
+
+## [0.0.5]
+- Added cy-utilities and html5 boilerplate
