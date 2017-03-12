@@ -18,3 +18,6 @@ All notable changes to the "cy-extension-collection" extension pack will be docu
 
 ## [0.0.6]
 - Added editor config, sort lines and beautifier
+
+## [0.0.7]
+- Added a bunch a packages
